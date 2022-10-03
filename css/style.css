@@ -21,13 +21,9 @@
   opacity: 0.001;
 }
 
-body {
-  background-color: green;
-}
-
 p {
-  color: blueviolet;
+  color: black;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1.5rem;
-  padding-top: 5pt;
+  padding-top: 15pt;
 }
