@@ -21,6 +21,10 @@
   opacity: 0.001;
 }
 
+body {
+  background-color: rgb(154 211 232);
+}
+
 p {
   color: black;
   font-family: Helvetica, Arial, sans-serif;
