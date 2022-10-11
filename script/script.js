@@ -4,8 +4,8 @@
 // Created on: Sep 2020
 // This file contains the JS functions for index.html
 
-
-function myButtonClicked () {
-    // this function does area and perimeter
-    document.getElementById('some-info').innerHTML = "<p>The answer is: " + (0) + " cm².</p>"
-  }
+function myButtonClicked() {
+  // this function does area and perimeter
+  document.getElementById("some-info").innerHTML =
+    "<p>The answer is: " + 0 + " cm².</p>"
+}
